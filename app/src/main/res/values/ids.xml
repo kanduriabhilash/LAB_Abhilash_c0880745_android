@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="map" type="id">mapp</item>
+    <item name="addressText" type="id">add</item>
+    <item name="locationButton" type="id">loc</item>
+</resources>
